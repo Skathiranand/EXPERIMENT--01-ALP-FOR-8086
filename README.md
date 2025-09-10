@@ -1,7 +1,7 @@
 # EXPERIMENT-01-ALP-for fundamental arithmetic and logical operations using emu8086
 ## Name : Kathir anand S
 ## Roll no : 212223100018
-## Date of experiment : 10/08/2025
+## Date of experiment : 10/09/2025
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations.
 ## Components required: 8086  emulator 
